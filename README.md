@@ -34,11 +34,11 @@
       <br/>TypeScript
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/icon-java.svg" alt="React" width="40" height="40"/>
+      <img src="icons/icon-java.svg" alt="Java" width="40" height="40"/>
       <br/>Java
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/icon-csharp.svg.svg" alt="React" width="40" height="40"/>
+      <img src="icons/icon-csharp.svg" alt="C#" width="40" height="40"/>
       <br/>C#
     </td>
   </tr>
