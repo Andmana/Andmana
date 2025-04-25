@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**Andmana/Andmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello, <a href="https://github.com/Andmana" 
+  title="Profile">I'm Andreas</a>👋</h2>
+<br>
+<p align="center">
+  <bold>I'm a Full Stack Developer</bold><br>
+  👀 I’m looking for a job opportunity in web development< <br>
+ <br>
+ <br>
+  📫 How to reach me: <i>andreas.pputras@gmail.com</i>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">🚀 Languages & Tools</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align='center'>🏝️ Languages</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" height="70" width="70">
+      <img src="icons/icon-html.svg" alt="HTML" width="40" height="40"/>
+      <br/>HTML5
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/icon-css.svg" alt="CSS3" width="40" height="40"/>
+      <br/>CSS3
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/icon-javascript.svg" alt="JavaScript" width="40" height="40"/>
+      <br/>JavaScript
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/icon-typescript.svg" alt="TypeScript" width="40" height="40"/>
+      <br/>TypeScript
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/icon-java.svg" alt="React" width="40" height="40"/>
+      <br/>Java
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/icon-csharp.svg.svg" alt="React" width="40" height="40"/>
+      <br/>C#
+    </td>
+  </tr>
+</table>
