@@ -42,12 +42,12 @@
       <br/>C#
     </td>
   </tr>
-  <tr>
 </table>
 
 <br>
 
 <table align="center">
+  <tr>
     <td align="center" height="70" width="70">
       <img src="icons/icon-mssql.svg" alt="MS Sql Server" width="40" height="40"/>
       <br/>SQL Server
