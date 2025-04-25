@@ -43,9 +43,14 @@
     </td>
   </tr>
   <tr>
+</table>
+
+<br>
+
+<table align="center">
     <td align="center" height="70" width="70">
       <img src="icons/icon-mssql.svg" alt="MS Sql Server" width="40" height="40"/>
-      <br/>MS SQL Server
+      <br/>SQL Server
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/icon-mysql.svg" alt="MS Sql Server" width="40" height="40"/>
@@ -55,6 +60,5 @@
       <img src="icons/icon-postgresql.svg" alt="PostgreSql" width="40" height="40"/>
       <br/>PostgreSQL
     </td>
-
   </tr>
 </table>
