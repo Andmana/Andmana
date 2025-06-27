@@ -32,13 +32,13 @@
       <br/>TypeScript
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-php.svg" alt="C#" width="40" height="40"/>
+      <img src="icons/icon-php.svg" alt="PHP" width="40" height="40"/>
       <br/>PHP
     </td>
   </tr>
   <tr>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-python.svg" alt="C#" width="40" height="40"/>
+      <img src="icons/icon-python.svg" alt="Python" width="40" height="40"/>
       <br/>Python
     </td>
     <td align="center" height="75" width="75">
@@ -87,19 +87,19 @@
 <table align="center">
   <tr>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-react.svg" alt="React" width="40" height="40"/>
+      <img src="icons/icon-react.svg" alt="React JS" width="40" height="40"/>
       <br/>React JS
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-vue-js.svg" alt="React" width="40" height="40"/>
+      <img src="icons/icon-vue-js.svg" alt="Vue JS" width="40" height="40"/>
       <br/>Vue JS
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-next-js.svg" alt="React" width="40" height="40"/>
+      <img src="icons/icon-next-js.svg" alt="Next JS" width="40" height="40"/>
       <br/>Next JS
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-angular.svg" alt="React" width="40" height="40"/>
+      <img src="icons/icon-angular.svg" alt="Angular" width="40" height="40"/>
       <br/>Angular
     </td>
   </tr>
@@ -107,7 +107,7 @@
 
 <table align="center">
     <td align="center" height="75" width="75">
-      <img src="icons/icon-dotnet.svg" alt="DotNET" width="40" height="40"/>
+      <img src="icons/icon-dotnet.svg" alt="DOTNET" width="40" height="40"/>
       <br/>.NET
     </td>
     <td align="center" height="75" width="75">
@@ -115,15 +115,15 @@
       <br/>Spring Boot
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-laravel.svg" alt="Spring Boot" width="40" height="40"/>
+      <img src="icons/icon-laravel.svg" alt="Laravel" width="40" height="40"/>
       <br/>Laravel
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-codeigniter.svg" alt="Bootstrap" width="40" height="40"/>
+      <img src="icons/icon-codeigniter.svg" alt="Codeigniter" width="40" height="40"/>
       <br/>Codeigniter
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-node-js.svg" alt="Bootstrap" width="40" height="40"/>
+      <img src="icons/icon-node-js.svg" alt="Node JS" width="40" height="40"/>
       <br/>Node JS
     </td>
 </table>
