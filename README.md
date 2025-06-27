@@ -115,7 +115,7 @@
       <br/>Spring Boot
     </td>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-laravel.svg" alt="Laravel" width="40" height="40"/>
+      <img src="icons/icon-laravel2.svg" alt="Laravel" width="40" height="40"/>
       <br/>Laravel
     </td>
     <td align="center" height="75" width="75">
