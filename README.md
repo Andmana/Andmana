@@ -155,7 +155,8 @@
         <p>
           <a href='https://github.com/Andmana/Game-Station' >
             <strong>REPO</strong>
-          </a> 
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
           <a href='https://game-station-xxx.netlify.app/'>
             <strong>LIVE</strong>
           </a>
@@ -193,11 +194,87 @@
           <a href='https://github.com/Andmana/Memory-App'>
             <strong>REPO</strong>
           </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
           <a href='https://memory-app-andmana.netlify.app/'>
             <strong>LIVE</strong>
           </a>
         </p>
         <p><strong>React, JavaScript, HTML, CSS</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>Calculator</h2>
+      <div align='center'>  
+        <a href='https://andmana.github.io/calculator/'>
+          <img src='images/Calculator.png' alt='Chronous'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/Andmana/calculator'>
+            <strong>REPO</strong>
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <a href='https://andmana.github.io/calculator/'>
+            <strong>LIVE</strong>
+          </a>
+        </p>
+        <p><strong>Javascript, HTML, CSS</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>To DO List</h2>
+      <div align='center'>  
+        <a href='https://andmana.github.io/To-Do-List/'>
+          <img src='images/To-Do-List.png' alt='Chronous'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/Andmana/To-Do-List'>
+            <strong>REPO</strong>
+          </a>
+          <a href='https://andmana.github.io/To-Do-List/'>
+            <strong>LIVE</strong>
+          </a>
+        </p>
+        <p><strong>WebPack, Javascript, HTML, CSS</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>Job Listing</h2>
+      <div align='center'>  
+        <a href='https://github.com/Andmana/vue-job-list'>
+          <img src='images/Vue-Job-List.png' alt='Vue Job List'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/Andmana/vue-job-list'>
+            <strong>REPO</strong>
+          </a>
+        </p>
+        <p><strong>Vue JS, Tailwind, Javascript, HTML, CSS</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Inventory-App</h2>
+      <div align='center'>  
+        <a href='https://github.com/Andmana/TOP-Express-Inventory-App'>
+          <img src='images/Node-Inventory-App.png' alt='Node Inventory App'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/Andmana/TOP-Express-Inventory-App'>
+            <strong>REPO</strong>
+          </a>
+        </p>
+        <p><strong>Node JS, Express JS, Bootstrap, Javascript, HTML, CSS, PostgreSQL</strong></p>
       </div>
     </td>
   </tr>
