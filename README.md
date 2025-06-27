@@ -24,20 +24,22 @@
 <table align="center">
   <tr>
     <td align="center" height="75" width="75">
-      <img src="icons/icon-html.svg" alt="HTML" width="40" height="40"/>
-      <br/>HTML5
-    </td>
-    <td align="center" height="75" width="75">
-      <img src="icons/icon-css.svg" alt="CSS3" width="40" height="40"/>
-      <br/>CSS3
-    </td>
-    <td align="center" height="75" width="75">
       <img src="icons/icon-javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
     <td align="center" height="75" width="75">
       <img src="icons/icon-typescript.svg" alt="TypeScript" width="40" height="40"/>
       <br/>TypeScript
+    </td>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-php.svg" alt="C#" width="40" height="40"/>
+      <br/>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-python.svg" alt="C#" width="40" height="40"/>
+      <br/>Python
     </td>
     <td align="center" height="75" width="75">
       <img src="icons/icon-java.svg" alt="Java" width="40" height="40"/>
@@ -67,14 +69,43 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-html.svg" alt="HTML" width="40" height="40"/>
+      <br/>HTML5
+    </td>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-css.svg" alt="CSS3" width="40" height="40"/>
+      <br/>CSS3
+    </td>
+  </tr>
+</table>
+
 <h3 align='center'>🧰 Frameworks</h3>
 
 <table align="center">
   <tr>
     <td align="center" height="75" width="75">
       <img src="icons/icon-react.svg" alt="React" width="40" height="40"/>
-      <br/>React
+      <br/>React JS
     </td>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-vue-js.svg" alt="React" width="40" height="40"/>
+      <br/>Vue JS
+    </td>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-next-js.svg" alt="React" width="40" height="40"/>
+      <br/>Next JS
+    </td>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-angular.svg" alt="React" width="40" height="40"/>
+      <br/>Angular
+    </td>
+  </tr>
+</table>
+
+<table align="center">
     <td align="center" height="75" width="75">
       <img src="icons/icon-dotnet.svg" alt="DotNET" width="40" height="40"/>
       <br/>.NET
@@ -84,6 +115,21 @@
       <br/>Spring Boot
     </td>
     <td align="center" height="75" width="75">
+      <img src="icons/icon-laravel.svg" alt="Spring Boot" width="40" height="40"/>
+      <br/>Laravel
+    </td>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-codeigniter.svg" alt="Bootstrap" width="40" height="40"/>
+      <br/>Codeigniter
+    </td>
+    <td align="center" height="75" width="75">
+      <img src="icons/icon-node-js.svg" alt="Bootstrap" width="40" height="40"/>
+      <br/>Node JS
+    </td>
+</table>
+
+<table align="center">
+    <td align="center" height="75" width="75">
       <img src="icons/icon-bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
       <br/>Bootstrap
     </td>
@@ -91,7 +137,6 @@
       <img src="icons/icon-tailwind.svg" alt="Tailwind CSS" width="40" height="40"/>
       <br/>Tailwind CSS
     </td>
-  </tr>
 </table>
 
 <h1 align="center">Projects</h1>
