@@ -7,7 +7,7 @@
   <bold>I'm a Full Stack Developer</bold><br>
   👀 I’m looking for a job opportunity in web development <br>
   📫 How to reach me: <i>andreas.pputras@gmail.com</i> <br>
-  <a href="https://www.linkedin.com/in/oleksandr-didyshen/"> 
+  <a href="https://www.linkedin.com/in/andreas-permana-4a6b63241/"> 
     <img src="icons/icon-linkedin.svg" alt="LinkedIn" height="30" width='30' />
   </a>
   <a href="https://www.instagram.com/andmana.putra/"> 
