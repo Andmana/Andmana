@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="center">Hello, <a href="https://github.com/Andmana" 
+<h2 align="center">Hello, <a href="https://andmana-portfolio.netlify.app/" 
   title="Profile">I'm Andreas</a>👋</h2>
 <br>
 <p align="center">
